@@ -37,7 +37,7 @@ function fetchProducts() {
                 
                 // Set the link to go to the single product page, passing the ProductID
                 // Example: single-product.html?id=P001
-                cardLink.href = `/pages/single-product.html?id=${product.ProductID}`;
+                cardLink.href = `./pages/single-product.html?id=${product.ProductID}`;
 
                 // The inner content of the card remains the same
                 cardLink.innerHTML = `
