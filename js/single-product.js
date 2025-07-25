@@ -1,5 +1,5 @@
 // --- CONFIGURATION ---
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzOFkA7JE4_yfOEa-43mDVZ0sjYy5kGc9-aOyPnoM4FLIRIv9Nc0aFPYDHpMLh-H9Zr/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxZG0up3qVKhg5gvZkWC19rs8V8C3A0O57j9N-JJyOG7S3BQK-NoVfdbS2y0mb1NAT17A/exec";
 const API_KEY = "anes:)";
 // --------------------
 
